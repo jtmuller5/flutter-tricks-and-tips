@@ -1,0 +1,1 @@
+This is a tips and tricks repository for Flutter and Dart. The tips are in Markdown files in the `tips` directory. Each tip consists of a title, a description, and a code snippet. The code snippet is a Dart code snippet that demonstrates the tip.
