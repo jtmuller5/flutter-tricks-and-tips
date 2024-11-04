@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "demo",
+      "cwd": "demo",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "demo (profile mode)",
+      "cwd": "demo",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "demo (release mode)",
+      "cwd": "demo",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}

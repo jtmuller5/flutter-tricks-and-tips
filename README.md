@@ -19,6 +19,7 @@ To see tips as soon as they are added, follow [@code_ontherocks](https://twitter
 | 0051 | [Use Perl in Fastlane](tips/0051-increment-build-number-with-perl/tip.md) | [Tweet](https://twitter.com/code_ontherocks/status/1701219043771138227)  |
 | 0026 | [Use the Process Class to Run Executables](tips/0026-use-process-class/tip.md) | [Tweet](https://twitter.com/code_ontherocks/status/1699521602298548678)  |
 | 0023 | [Material 3 IconButtons](tips/0023-material-3-icon-buttons/tip.md) | [Tweet](https://twitter.com/code_ontherocks/status/1699422701171945765)  |
+| 0010 | [Non-nulls filter](tips/0010-non-nulls-filter/tip.md) | [Tweet](https://x.com/code_ontherocks/status/1853439337351848299)  |
 | 0009 | [Use Enhanced Enums](tips/0009-enhanced-enums/tip.md) |  [Tweet](https://x.com/code_ontherocks/status/1844098838803415061) |
 | 0008 | [Layer One Color on Another](tips/0008-layer-colors/tip.md) |  [Tweet](https://x.com/code_ontherocks/status/1843432049824133282) |
 | 0007 | [Update a Button's Visual Density](tips/0007-button-visual-density/tip.md) |  [Tweet](https://x.com/code_ontherocks/status/1851258229705064487) |
