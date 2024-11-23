@@ -1,3 +1,4 @@
+import 'package:demo/tips/ink_image/tip.dart';
 import 'package:demo/tips/non-nulls/tip.dart';
 import 'package:flutter/material.dart';
 
@@ -12,7 +13,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
-        body: NonNullsTip(),
+        body: InkImage(),
       ),
     );
   }
