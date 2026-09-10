@@ -6,9 +6,9 @@ Below is a constantly expanding list of Flutter and Dart tricks. The most recent
 To see tips as soon as they are added, follow [@code_ontherocks](https://twitter.com/code_ontherocks) on Twitter!
 
 ## More by Code on the Rocks
-| [Flutter AI Chat](https://codeontherocks.gumroad.com/l/flutter-ai-chat)                                                                        |
+| [Flutter AI Chat](https://sapidlabs.gumroad.com/l/flutter-ai-chat)                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://codeontherocks.gumroad.com/l/flutter-ai-chat"><img src="https://public-files.gumroad.com/cn4mfepgnvhnw4af8icucgmda7iq"></a> |
+| <a href="https://sapidlabs.gumroad.com/l/flutter-ai-chat"><img src="https://public-files.gumroad.com/cn4mfepgnvhnw4af8icucgmda7iq"></a> |
 | Flutter AI Chat Starter App (with Firebase and PaLM)                                                                                           |
 
 | # | Tip | Tweet |
